@@ -26,7 +26,7 @@ Copy to "PathToNoesis/plugins/python" folder.
 ## Plugins
 
 | Format | Decrition | View | Save | 
-| :-- | :-- | :-- | 
+| :-- | :-- | :-- | :-- |
 | [fmt_ht_txr_msk.py](https://github.com/reRNR/RNRNoesisPlugins/blob/main/plugins/fmt_ht_txr_msk.py) | open, save (wip) .txr, .msk files | Yes | Yes |
 | [fmt_ht_rmp_res.py](https://github.com/reRNR/RNRNoesisPlugins/blob/main/plugins/fmt_ht_rmp_res.py) | unpack .res and .rmp | Yes | No |
 | [fmt_ht_raw.py](https://github.com/reRNR/RNRNoesisPlugins/blob/main/plugins/fmt_ht_raw.py) | script to view .raw (heightmaps) | Yes | No |
